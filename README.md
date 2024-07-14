@@ -12,3 +12,5 @@ SPI interface with a microcontroller.
 - The digital output from the FPGA is fed into a DAC to generate a zero-order hold of the desired waveform.
 Integrated an active lowpass filter at the output with a cutoff frequency of half the system clock removes the
 discontinuities.
+
+![image](https://github.com/user-attachments/assets/d579680d-fca0-469b-816b-a1b912394704)
